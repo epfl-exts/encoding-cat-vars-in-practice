@@ -1,7 +1,13 @@
 
 ### Encoding categorical variables in practice
 
-**Experiment with the code on your computer**
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pacm/encoding-cat-vars-in-practice/master?urlpath=lab/tree/encoding-categorical-variables-in-practice.ipynb)
+
+**Read and run the notebook online with [Binder](https://mybinder.org/v2/gh/pacm/encoding-cat-vars-in-practice/master?urlpath=lab/tree/encoding-categorical-variables-in-practice.ipynb)**
+
+--
+
+**Alternatively - Experiment with the code on your computer**
 
 Create a Conda environement with the necessary libraries listed in `environment.yml`
 
